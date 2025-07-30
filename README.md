@@ -1,4 +1,8 @@
-# Edge Gallery 11 - AI-Powered Image Processing App
+
+![glucoguide logo2](https://github.com/user-attachments/assets/330ef197-8acf-4ed0-9974-8200754e418f)
+
+
+GlucoGuide - AI-Powered Image Processing App
 
 A modern Android application built with **MediaPipe** for on-device AI image processing and multimodal LLM inference. This app demonstrates state-of-the-art computer vision and generative AI capabilities running entirely on your device.
 
@@ -201,6 +205,7 @@ Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for detai
 - [MediaPipe Documentation](https://developers.google.com/mediapipe)
 - [Google AI Edge Gallery](https://github.com/google-ai-edge/gallery)
 - [LiteRT Model Hub](https://ai.google.dev/edge/litert)
+- [Gemma 3n Model Download](https://huggingface.co/google/gemma-3n-E2B-it-litert-preview/tree/main)  
 - [MediaPipe Tasks Guide](https://developers.google.com/mediapipe/solutions/tasks)
 
 ---
